@@ -1,0 +1,24 @@
+.bg-light-blue {
+    background-color: #add8e6; /* Azul claro */
+}
+
+.container {
+    padding-top: 4%;
+}
+
+.nav {
+    padding-top: 4%;
+}
+
+.texto_sobrenos {
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+    text-align: left;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+}
